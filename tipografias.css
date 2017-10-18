@@ -1,0 +1,29 @@
+body {
+	text-align: center;
+}
+h1 {
+	font-size: 40px;
+}
+h2 {
+	font-family: 'Inconsolata', monospace;
+}
+h4,p {
+	font-family: 'Josefin Sans', sans-serif;
+}
+div {
+	background-color: #F2F2F2;
+	color: #A4A4A4;
+	padding-top: 30px;
+	width: 240px;
+	height: 280px;
+	margin: 2px;
+	float: left;
+}
+.fa-paper-plane,.fa-diamond,.fa-heart,.fa-coffee,.fa-cutlery {
+	font-size: 70px;
+}
+.up {
+	background: #FAFAFA;
+	color: #CEE3F6;
+	height: 300px;
+}
